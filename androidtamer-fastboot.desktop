@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+TryExec=fastboot
+Exec=x-terminal-emulator --command "fastboot --help; $SHELL"
+Name=Fastboot
+Icon=terminator
+Categories=X-tamer-romdev

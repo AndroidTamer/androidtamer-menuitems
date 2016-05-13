@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+TryExec=/usr/bin/skipfish
+Exec=x-terminal-emulator --command "skipfish --help; $SHELL"
+Name=Skipfish
+Icon=terminator
+Categories=X-tamer-pentest

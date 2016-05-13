@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+TryExec=/usr/bin/testdisk
+Exec=x-terminal-emulator --command "testdisk; $SHELL"
+Name=TestDisk
+Icon=terminator
+Categories=X-tamer-forensics

@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+TryExec=/usr/bin/owasp-zap
+Exec=/usr/bin/owasp-zap
+Name=OWASP ZAP
+Icon=terminator
+Categories=X-tamer-pentest
