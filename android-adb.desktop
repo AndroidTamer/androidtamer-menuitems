@@ -5,6 +5,6 @@ Type=Application
 Terminal=false
 TryExec=adb
 Exec=x-terminal-emulator --command "adb --help; $SHELL"
-Name=Android SDK Manager
+Name=Android ADB
 Icon=/usr/share/icons/androidtamer/logo.png
 Categories=X-tamer
