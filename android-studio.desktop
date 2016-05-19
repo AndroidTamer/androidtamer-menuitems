@@ -5,6 +5,6 @@ Type=Application
 Terminal=false
 TryExec=studio.sh
 Exec=studio.sh
-Name=Android SDK Manager
+Name=Android Studio
 Icon=/usr/share/icons/androidtamer/logo.png
 Categories=X-tamer

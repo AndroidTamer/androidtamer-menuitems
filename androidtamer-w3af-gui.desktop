@@ -5,6 +5,6 @@ Type=Application
 Terminal=false
 TryExec=/usr/bin/w3af_gui
 Exec=w3af_gui
-Name=Nikto Scanner
+Name=W3AF GUI
 Icon=terminator
 Categories=X-tamer-pentest
