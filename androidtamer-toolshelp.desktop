@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+TryExec=x-www-browser
+Exec=x-www-browser "https://tools.androidtamer.com/"
+Name=Android Tamer Tools Help
+Icon=/usr/share/icons/androidtamer/tamericon80.png
+Categories=X-tamer

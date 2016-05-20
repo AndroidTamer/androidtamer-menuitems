@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+TryExec=dff
+Type=Application
+Name=DFF
+GenericName=Digital Forensics Framework
+Exec=dff -g
+Icon=dff
+Terminal=false
+Categories=X-tamer-forensics

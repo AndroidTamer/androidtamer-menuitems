@@ -3,8 +3,8 @@
 Version=1.0
 Type=Application
 Terminal=false
-TryExec=/usr/bin/w3af_gui
-Exec=w3af_gui
-Name=W3AF GUI
-Icon=w3af
+TryExec=iceweasel
+Exec=iceweasel
+Name=Firefox (aka IceWeasel)
+Icon=iceweasel
 Categories=X-tamer-pentest

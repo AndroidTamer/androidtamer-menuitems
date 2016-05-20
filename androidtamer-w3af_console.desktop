@@ -6,5 +6,5 @@ Terminal=false
 TryExec=/usr/bin/w3af
 Exec=x-terminal-emulator --command "echo 'Launching W3AF Console';python2 /usr/share/w3af/w3af_console "
 Name=W3AF Console
-Icon=terminator
+Icon=w3af
 Categories=X-tamer-pentest
