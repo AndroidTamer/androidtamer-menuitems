@@ -6,5 +6,5 @@ Terminal=false
 TryExec=/usr/bin/owasp-zap
 Exec=/usr/bin/owasp-zap
 Name=OWASP ZAP
-Icon=terminator
+Icon=/usr/share/icons/androidtamer/tamericon80.png
 Categories=X-tamer-pentest
