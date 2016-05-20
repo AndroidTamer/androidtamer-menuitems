@@ -3,7 +3,8 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=android avd
-Name=Android AVD Manager
+TryExec=traceview
+Exec=x-terminal-emulator --command "traceview; $SHELL"
+Name=Graphical Execution log Viewer
 Icon=/usr/share/icons/androidtamer/tamericon80.png
-Categories=X-tamer
+Categories=X-tamer-dev

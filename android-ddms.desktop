@@ -3,7 +3,7 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=android avd
-Name=Android AVD Manager
+Exec=ddms
+Name=DDMS
 Icon=/usr/share/icons/androidtamer/tamericon80.png
-Categories=X-tamer
+Categories=X-tamer-manualanalysis

@@ -3,8 +3,7 @@
 Version=1.0
 Type=Application
 Terminal=false
-TryExec=studio.sh
 Exec=studio.sh
 Name=Android Studio
-Icon=/usr/share/icons/androidtamer/logo.png
+Icon=/usr/share/icons/androidtamer/tamericon80.png
 Categories=X-tamer

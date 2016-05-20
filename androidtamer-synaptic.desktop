@@ -2,8 +2,10 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
+TryExec=synaptic
+Exec=synaptic-pkexec
+Icon=synaptic
 Terminal=false
-Exec=android avd
-Name=Android AVD Manager
-Icon=/usr/share/icons/androidtamer/tamericon80.png
+Type=Application
+Name=Synaptic Package Manager
 Categories=X-tamer

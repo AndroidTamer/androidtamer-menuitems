@@ -5,5 +5,5 @@ Type=Application
 Terminal=false
 Exec=x-terminal-emulator
 Name=Terminal
-Icon=/usr/share/icons/androidtamer/logo.png
+Icon=/usr/share/icons/androidtamer/tamericon80.png
 Categories=X-tamer

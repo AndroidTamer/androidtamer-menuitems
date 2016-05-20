@@ -3,7 +3,8 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=android avd
-Name=Android AVD Manager
+TryExec=hierarchyview
+Exec=hierarchyview
+Name=Android Hierarchyview
 Icon=/usr/share/icons/androidtamer/tamericon80.png
-Categories=X-tamer
+Categories=X-tamer-dev
