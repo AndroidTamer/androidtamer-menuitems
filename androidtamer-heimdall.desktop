@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+TryExec=heimdall-frontend
+Exec=heimdall-frontend
+Name=Heimdall Firmware Flashing tool
+Icon=/usr/share/icons/androidtamer/tamericon80.png
+Categories=X-tamer-romdev
