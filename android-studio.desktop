@@ -5,5 +5,5 @@ Type=Application
 Terminal=false
 Exec=studio.sh
 Name=Android Studio
-Icon=/usr/share/icons/androidtamer/tamericon80.png
-Categories=X-tamer
+Icon=/opt/Arsenal/android-studio/bin/studio.png
+Categories=X-tamer; X-tamer-dev

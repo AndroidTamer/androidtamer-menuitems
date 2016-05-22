@@ -6,4 +6,5 @@ Terminal=false
 TryExec=/usr/bin/wapiti
 Exec=x-terminal-emulator --command "wapiti --help; $SHELL"
 Name=Wapiti Scanner
-Icon=terminatorCategories=X-tamer-pentest
+Icon=terminator
+Categories=X-tamer-pentest

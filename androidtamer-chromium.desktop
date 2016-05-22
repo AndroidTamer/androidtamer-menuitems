@@ -7,4 +7,4 @@ TryExec=chromium
 Exec=chromium
 Name=Chromium Browser
 Icon=chromium
-Categories=X-tamer-pentest
+Categories=X-tamer-pentest; X-tamer
