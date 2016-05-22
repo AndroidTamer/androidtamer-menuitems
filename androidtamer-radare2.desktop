@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+TryExec=/usr/bin/radare2
+Exec=x-terminal-emulator --command "radare2; $SHELL"
+Name=Radare2
+Icon=/usr/share/icons/androidtamer/menu-256x256-radare2.png
+Categories=X-tamer-pentest

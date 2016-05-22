@@ -6,5 +6,5 @@ Terminal=false
 TryExec=heimdall-frontend
 Exec=heimdall-frontend
 Name=Heimdall Firmware Flashing tool
-Icon=/usr/share/icons/androidtamer/tamericon80.png
+Icon=/usr/share/icons/androidtamer/menu-32x32-heimdall.jpg
 Categories=X-tamer-romdev

@@ -5,5 +5,5 @@ Type=Application
 Terminal=false
 Exec=monitor
 Name=Android Device Monitor
-Icon=/usr/share/icons/androidtamer/tamericon80.png
+Icon=ddms
 Categories=X-tamer-manualanalysis
