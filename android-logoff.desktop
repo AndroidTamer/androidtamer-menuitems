@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=mate-session-save --logout-dialog
+Name=Log Off User
+Icon=system-log-out
+Categories=X-tamer
