@@ -5,5 +5,5 @@ Type=Application
 Terminal=false
 Exec=ddms
 Name=DDMS
-Icon=ddms
+Icon=/usr/share/icons/androidtamer/menu-128x128-ddms.png
 Categories=X-tamer-manualanalysis
