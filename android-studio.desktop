@@ -6,4 +6,4 @@ Terminal=false
 Exec=studio.sh
 Name=Android Studio
 Icon=/opt/Arsenal/android-studio/bin/studio.png
-Categories=X-tamer; X-tamer-dev
+Categories=X-tamer;X-tamer-dev
