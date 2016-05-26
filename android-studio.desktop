@@ -3,7 +3,8 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=studio.sh
+TryExec=/opt/Arsenal/android-studio/bin/studio.png
+Exec=/opt/Arsenal/android-studio/bin/studio.sh
 Name=Android Studio
 Icon=/opt/Arsenal/android-studio/bin/studio.png
 Categories=X-tamer;X-tamer-dev

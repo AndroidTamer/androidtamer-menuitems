@@ -3,8 +3,7 @@
 Version=1.0
 Type=Application
 Terminal=false
-TryExec=hierarchyview
-Exec=hierarchyview
+Exec=x-terminal-emulator --command "hierarchyview"
 Name=Android Hierarchyview
 Icon=/usr/share/icons/androidtamer/tamericon80.png
 Categories=X-tamer-dev

@@ -3,7 +3,8 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=monitor
+TryExec=/opt/Arsenal/android-sdk/tools/monitor
+Exec=/opt/Arsenal/android-sdk/tools/monitor
 Name=Android Device Monitor
 Icon=/usr/share/icons/androidtamer/menu-128x128-ddms.png
 Categories=X-tamer-manualanalysis
