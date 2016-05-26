@@ -3,7 +3,8 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=android avd
+TryExec=/opt/Arsenal/android-sdk-linux/tools/android
+Exec=x-terminal-emulator --command "/opt/Arsenal/android-sdk-linux/tools/android avd"
 Name=Android AVD Manager
 Icon=/usr/share/icons/androidtamer/tamericon80.png
 Categories=X-tamer
